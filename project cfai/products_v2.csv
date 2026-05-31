@@ -1,0 +1,3001 @@
+product_name,category,platform,price,rating,delivery_days,discount,popularity
+iPhone Model 1,Mobiles,Amazon,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Amazon,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Amazon,911,4.1,4,9,4
+Realme Model 4,Mobiles,Amazon,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Amazon,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Amazon,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Amazon,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Amazon,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Amazon,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Amazon,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Amazon,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Amazon,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Amazon,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Amazon,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Amazon,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Amazon,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Amazon,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Amazon,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Amazon,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Amazon,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Amazon,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Amazon,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Amazon,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Amazon,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Amazon,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Amazon,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Amazon,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Amazon,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Amazon,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Amazon,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Amazon,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Amazon,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Amazon,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Amazon,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Amazon,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Amazon,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Amazon,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Amazon,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Amazon,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Amazon,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Amazon,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Amazon,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Amazon,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Amazon,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Amazon,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Amazon,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Amazon,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Amazon,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Amazon,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Amazon,7350,4.0,1,0,1
+iPhone Model 1,Mobiles,Flipkart,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Flipkart,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Flipkart,911,4.1,4,9,4
+Realme Model 4,Mobiles,Flipkart,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Flipkart,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Flipkart,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Flipkart,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Flipkart,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Flipkart,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Flipkart,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Flipkart,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Flipkart,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Flipkart,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Flipkart,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Flipkart,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Flipkart,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Flipkart,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Flipkart,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Flipkart,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Flipkart,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Flipkart,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Flipkart,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Flipkart,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Flipkart,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Flipkart,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Flipkart,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Flipkart,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Flipkart,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Flipkart,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Flipkart,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Flipkart,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Flipkart,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Flipkart,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Flipkart,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Flipkart,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Flipkart,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Flipkart,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Flipkart,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Flipkart,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Flipkart,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Flipkart,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Flipkart,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Flipkart,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Flipkart,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Flipkart,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Flipkart,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Flipkart,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Flipkart,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Flipkart,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Flipkart,7350,4.0,1,0,1
+iPhone Model 1,Mobiles,Myntra,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Myntra,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Myntra,911,4.1,4,9,4
+Realme Model 4,Mobiles,Myntra,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Myntra,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Myntra,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Myntra,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Myntra,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Myntra,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Myntra,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Myntra,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Myntra,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Myntra,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Myntra,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Myntra,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Myntra,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Myntra,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Myntra,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Myntra,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Myntra,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Myntra,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Myntra,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Myntra,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Myntra,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Myntra,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Myntra,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Myntra,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Myntra,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Myntra,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Myntra,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Myntra,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Myntra,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Myntra,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Myntra,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Myntra,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Myntra,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Myntra,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Myntra,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Myntra,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Myntra,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Myntra,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Myntra,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Myntra,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Myntra,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Myntra,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Myntra,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Myntra,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Myntra,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Myntra,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Myntra,7350,4.0,1,0,1
+iPhone Model 1,Mobiles,Ajio,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Ajio,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Ajio,911,4.1,4,9,4
+Realme Model 4,Mobiles,Ajio,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Ajio,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Ajio,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Ajio,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Ajio,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Ajio,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Ajio,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Ajio,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Ajio,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Ajio,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Ajio,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Ajio,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Ajio,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Ajio,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Ajio,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Ajio,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Ajio,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Ajio,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Ajio,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Ajio,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Ajio,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Ajio,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Ajio,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Ajio,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Ajio,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Ajio,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Ajio,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Ajio,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Ajio,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Ajio,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Ajio,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Ajio,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Ajio,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Ajio,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Ajio,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Ajio,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Ajio,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Ajio,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Ajio,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Ajio,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Ajio,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Ajio,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Ajio,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Ajio,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Ajio,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Ajio,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Ajio,7350,4.0,1,0,1
+iPhone Model 1,Mobiles,Meesho,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Meesho,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Meesho,911,4.1,4,9,4
+Realme Model 4,Mobiles,Meesho,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Meesho,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Meesho,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Meesho,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Meesho,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Meesho,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Meesho,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Meesho,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Meesho,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Meesho,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Meesho,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Meesho,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Meesho,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Meesho,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Meesho,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Meesho,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Meesho,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Meesho,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Meesho,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Meesho,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Meesho,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Meesho,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Meesho,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Meesho,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Meesho,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Meesho,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Meesho,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Meesho,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Meesho,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Meesho,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Meesho,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Meesho,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Meesho,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Meesho,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Meesho,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Meesho,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Meesho,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Meesho,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Meesho,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Meesho,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Meesho,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Meesho,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Meesho,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Meesho,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Meesho,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Meesho,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Meesho,7350,4.0,1,0,1
+iPhone Model 1,Mobiles,Nykaa,637,3.9,2,3,2
+Samsung Galaxy Model 2,Mobiles,Nykaa,774,4.0,3,6,3
+OnePlus Model 3,Mobiles,Nykaa,911,4.1,4,9,4
+Realme Model 4,Mobiles,Nykaa,1048,4.2,5,12,5
+Redmi Model 5,Mobiles,Nykaa,1185,4.3,1,15,6
+Vivo Model 6,Mobiles,Nykaa,1322,4.4,2,18,7
+Oppo Model 7,Mobiles,Nykaa,1459,4.5,3,21,8
+Nothing Model 8,Mobiles,Nykaa,1596,4.6,4,24,9
+Motorola Model 9,Mobiles,Nykaa,1733,4.7,5,27,10
+Google Pixel Model 10,Mobiles,Nykaa,1870,4.8,1,30,1
+iPhone Model 11,Mobiles,Nykaa,2007,4.9,2,33,2
+Samsung Galaxy Model 12,Mobiles,Nykaa,2144,3.8,3,36,3
+OnePlus Model 13,Mobiles,Nykaa,2281,3.9,4,39,4
+Realme Model 14,Mobiles,Nykaa,2418,4.0,5,42,5
+Redmi Model 15,Mobiles,Nykaa,2555,4.1,1,45,6
+Vivo Model 16,Mobiles,Nykaa,2692,4.2,2,48,7
+Oppo Model 17,Mobiles,Nykaa,2829,4.3,3,1,8
+Nothing Model 18,Mobiles,Nykaa,2966,4.4,4,4,9
+Motorola Model 19,Mobiles,Nykaa,3103,4.5,5,7,10
+Google Pixel Model 20,Mobiles,Nykaa,3240,4.6,1,10,1
+iPhone Model 21,Mobiles,Nykaa,3377,4.7,2,13,2
+Samsung Galaxy Model 22,Mobiles,Nykaa,3514,4.8,3,16,3
+OnePlus Model 23,Mobiles,Nykaa,3651,4.9,4,19,4
+Realme Model 24,Mobiles,Nykaa,3788,3.8,5,22,5
+Redmi Model 25,Mobiles,Nykaa,3925,3.9,1,25,6
+Vivo Model 26,Mobiles,Nykaa,4062,4.0,2,28,7
+Oppo Model 27,Mobiles,Nykaa,4199,4.1,3,31,8
+Nothing Model 28,Mobiles,Nykaa,4336,4.2,4,34,9
+Motorola Model 29,Mobiles,Nykaa,4473,4.3,5,37,10
+Google Pixel Model 30,Mobiles,Nykaa,4610,4.4,1,40,1
+iPhone Model 31,Mobiles,Nykaa,4747,4.5,2,43,2
+Samsung Galaxy Model 32,Mobiles,Nykaa,4884,4.6,3,46,3
+OnePlus Model 33,Mobiles,Nykaa,5021,4.7,4,49,4
+Realme Model 34,Mobiles,Nykaa,5158,4.8,5,2,5
+Redmi Model 35,Mobiles,Nykaa,5295,4.9,1,5,6
+Vivo Model 36,Mobiles,Nykaa,5432,3.8,2,8,7
+Oppo Model 37,Mobiles,Nykaa,5569,3.9,3,11,8
+Nothing Model 38,Mobiles,Nykaa,5706,4.0,4,14,9
+Motorola Model 39,Mobiles,Nykaa,5843,4.1,5,17,10
+Google Pixel Model 40,Mobiles,Nykaa,5980,4.2,1,20,1
+iPhone Model 41,Mobiles,Nykaa,6117,4.3,2,23,2
+Samsung Galaxy Model 42,Mobiles,Nykaa,6254,4.4,3,26,3
+OnePlus Model 43,Mobiles,Nykaa,6391,4.5,4,29,4
+Realme Model 44,Mobiles,Nykaa,6528,4.6,5,32,5
+Redmi Model 45,Mobiles,Nykaa,6665,4.7,1,35,6
+Vivo Model 46,Mobiles,Nykaa,6802,4.8,2,38,7
+Oppo Model 47,Mobiles,Nykaa,6939,4.9,3,41,8
+Nothing Model 48,Mobiles,Nykaa,7076,3.8,4,44,9
+Motorola Model 49,Mobiles,Nykaa,7213,3.9,5,47,10
+Google Pixel Model 50,Mobiles,Nykaa,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Amazon,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Amazon,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Amazon,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Amazon,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Amazon,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Amazon,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Amazon,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Amazon,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Amazon,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Amazon,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Amazon,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Amazon,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Amazon,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Amazon,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Amazon,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Amazon,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Amazon,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Amazon,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Amazon,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Amazon,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Amazon,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Amazon,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Amazon,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Amazon,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Amazon,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Amazon,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Amazon,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Amazon,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Amazon,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Amazon,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Amazon,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Amazon,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Amazon,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Amazon,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Amazon,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Amazon,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Amazon,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Amazon,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Amazon,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Amazon,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Amazon,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Amazon,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Amazon,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Amazon,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Amazon,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Amazon,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Amazon,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Amazon,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Amazon,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Amazon,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Flipkart,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Flipkart,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Flipkart,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Flipkart,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Flipkart,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Flipkart,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Flipkart,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Flipkart,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Flipkart,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Flipkart,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Flipkart,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Flipkart,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Flipkart,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Flipkart,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Flipkart,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Flipkart,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Flipkart,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Flipkart,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Flipkart,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Flipkart,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Flipkart,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Flipkart,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Flipkart,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Flipkart,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Flipkart,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Flipkart,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Flipkart,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Flipkart,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Flipkart,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Flipkart,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Flipkart,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Flipkart,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Flipkart,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Flipkart,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Flipkart,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Flipkart,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Flipkart,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Flipkart,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Flipkart,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Flipkart,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Flipkart,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Flipkart,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Flipkart,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Flipkart,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Flipkart,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Flipkart,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Flipkart,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Flipkart,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Flipkart,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Flipkart,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Myntra,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Myntra,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Myntra,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Myntra,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Myntra,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Myntra,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Myntra,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Myntra,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Myntra,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Myntra,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Myntra,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Myntra,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Myntra,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Myntra,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Myntra,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Myntra,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Myntra,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Myntra,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Myntra,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Myntra,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Myntra,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Myntra,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Myntra,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Myntra,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Myntra,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Myntra,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Myntra,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Myntra,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Myntra,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Myntra,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Myntra,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Myntra,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Myntra,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Myntra,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Myntra,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Myntra,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Myntra,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Myntra,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Myntra,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Myntra,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Myntra,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Myntra,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Myntra,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Myntra,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Myntra,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Myntra,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Myntra,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Myntra,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Myntra,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Myntra,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Ajio,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Ajio,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Ajio,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Ajio,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Ajio,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Ajio,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Ajio,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Ajio,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Ajio,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Ajio,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Ajio,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Ajio,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Ajio,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Ajio,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Ajio,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Ajio,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Ajio,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Ajio,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Ajio,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Ajio,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Ajio,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Ajio,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Ajio,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Ajio,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Ajio,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Ajio,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Ajio,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Ajio,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Ajio,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Ajio,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Ajio,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Ajio,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Ajio,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Ajio,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Ajio,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Ajio,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Ajio,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Ajio,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Ajio,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Ajio,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Ajio,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Ajio,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Ajio,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Ajio,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Ajio,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Ajio,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Ajio,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Ajio,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Ajio,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Ajio,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Meesho,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Meesho,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Meesho,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Meesho,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Meesho,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Meesho,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Meesho,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Meesho,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Meesho,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Meesho,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Meesho,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Meesho,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Meesho,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Meesho,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Meesho,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Meesho,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Meesho,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Meesho,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Meesho,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Meesho,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Meesho,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Meesho,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Meesho,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Meesho,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Meesho,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Meesho,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Meesho,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Meesho,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Meesho,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Meesho,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Meesho,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Meesho,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Meesho,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Meesho,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Meesho,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Meesho,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Meesho,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Meesho,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Meesho,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Meesho,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Meesho,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Meesho,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Meesho,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Meesho,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Meesho,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Meesho,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Meesho,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Meesho,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Meesho,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Meesho,7350,4.0,1,0,1
+HP Victus Model 1,Laptops,Nykaa,637,3.9,2,3,2
+Dell Inspiron Model 2,Laptops,Nykaa,774,4.0,3,6,3
+Lenovo Legion Model 3,Laptops,Nykaa,911,4.1,4,9,4
+ASUS TUF Model 4,Laptops,Nykaa,1048,4.2,5,12,5
+Acer Nitro Model 5,Laptops,Nykaa,1185,4.3,1,15,6
+MacBook Air Model 6,Laptops,Nykaa,1322,4.4,2,18,7
+MSI Katana Model 7,Laptops,Nykaa,1459,4.5,3,21,8
+HP Pavilion Model 8,Laptops,Nykaa,1596,4.6,4,24,9
+Lenovo IdeaPad Model 9,Laptops,Nykaa,1733,4.7,5,27,10
+ASUS VivoBook Model 10,Laptops,Nykaa,1870,4.8,1,30,1
+HP Victus Model 11,Laptops,Nykaa,2007,4.9,2,33,2
+Dell Inspiron Model 12,Laptops,Nykaa,2144,3.8,3,36,3
+Lenovo Legion Model 13,Laptops,Nykaa,2281,3.9,4,39,4
+ASUS TUF Model 14,Laptops,Nykaa,2418,4.0,5,42,5
+Acer Nitro Model 15,Laptops,Nykaa,2555,4.1,1,45,6
+MacBook Air Model 16,Laptops,Nykaa,2692,4.2,2,48,7
+MSI Katana Model 17,Laptops,Nykaa,2829,4.3,3,1,8
+HP Pavilion Model 18,Laptops,Nykaa,2966,4.4,4,4,9
+Lenovo IdeaPad Model 19,Laptops,Nykaa,3103,4.5,5,7,10
+ASUS VivoBook Model 20,Laptops,Nykaa,3240,4.6,1,10,1
+HP Victus Model 21,Laptops,Nykaa,3377,4.7,2,13,2
+Dell Inspiron Model 22,Laptops,Nykaa,3514,4.8,3,16,3
+Lenovo Legion Model 23,Laptops,Nykaa,3651,4.9,4,19,4
+ASUS TUF Model 24,Laptops,Nykaa,3788,3.8,5,22,5
+Acer Nitro Model 25,Laptops,Nykaa,3925,3.9,1,25,6
+MacBook Air Model 26,Laptops,Nykaa,4062,4.0,2,28,7
+MSI Katana Model 27,Laptops,Nykaa,4199,4.1,3,31,8
+HP Pavilion Model 28,Laptops,Nykaa,4336,4.2,4,34,9
+Lenovo IdeaPad Model 29,Laptops,Nykaa,4473,4.3,5,37,10
+ASUS VivoBook Model 30,Laptops,Nykaa,4610,4.4,1,40,1
+HP Victus Model 31,Laptops,Nykaa,4747,4.5,2,43,2
+Dell Inspiron Model 32,Laptops,Nykaa,4884,4.6,3,46,3
+Lenovo Legion Model 33,Laptops,Nykaa,5021,4.7,4,49,4
+ASUS TUF Model 34,Laptops,Nykaa,5158,4.8,5,2,5
+Acer Nitro Model 35,Laptops,Nykaa,5295,4.9,1,5,6
+MacBook Air Model 36,Laptops,Nykaa,5432,3.8,2,8,7
+MSI Katana Model 37,Laptops,Nykaa,5569,3.9,3,11,8
+HP Pavilion Model 38,Laptops,Nykaa,5706,4.0,4,14,9
+Lenovo IdeaPad Model 39,Laptops,Nykaa,5843,4.1,5,17,10
+ASUS VivoBook Model 40,Laptops,Nykaa,5980,4.2,1,20,1
+HP Victus Model 41,Laptops,Nykaa,6117,4.3,2,23,2
+Dell Inspiron Model 42,Laptops,Nykaa,6254,4.4,3,26,3
+Lenovo Legion Model 43,Laptops,Nykaa,6391,4.5,4,29,4
+ASUS TUF Model 44,Laptops,Nykaa,6528,4.6,5,32,5
+Acer Nitro Model 45,Laptops,Nykaa,6665,4.7,1,35,6
+MacBook Air Model 46,Laptops,Nykaa,6802,4.8,2,38,7
+MSI Katana Model 47,Laptops,Nykaa,6939,4.9,3,41,8
+HP Pavilion Model 48,Laptops,Nykaa,7076,3.8,4,44,9
+Lenovo IdeaPad Model 49,Laptops,Nykaa,7213,3.9,5,47,10
+ASUS VivoBook Model 50,Laptops,Nykaa,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Amazon,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Amazon,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Amazon,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Amazon,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Amazon,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Amazon,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Amazon,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Amazon,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Amazon,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Amazon,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Amazon,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Amazon,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Amazon,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Amazon,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Amazon,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Amazon,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Amazon,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Amazon,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Amazon,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Amazon,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Amazon,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Amazon,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Amazon,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Amazon,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Amazon,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Amazon,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Amazon,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Amazon,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Amazon,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Amazon,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Amazon,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Amazon,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Amazon,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Amazon,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Amazon,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Amazon,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Amazon,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Amazon,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Amazon,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Amazon,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Amazon,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Amazon,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Amazon,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Amazon,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Amazon,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Amazon,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Amazon,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Amazon,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Amazon,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Amazon,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Flipkart,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Flipkart,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Flipkart,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Flipkart,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Flipkart,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Flipkart,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Flipkart,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Flipkart,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Flipkart,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Flipkart,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Flipkart,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Flipkart,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Flipkart,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Flipkart,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Flipkart,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Flipkart,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Flipkart,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Flipkart,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Flipkart,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Flipkart,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Flipkart,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Flipkart,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Flipkart,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Flipkart,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Flipkart,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Flipkart,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Flipkart,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Flipkart,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Flipkart,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Flipkart,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Flipkart,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Flipkart,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Flipkart,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Flipkart,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Flipkart,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Flipkart,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Flipkart,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Flipkart,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Flipkart,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Flipkart,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Flipkart,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Flipkart,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Flipkart,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Flipkart,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Flipkart,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Flipkart,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Flipkart,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Flipkart,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Flipkart,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Flipkart,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Myntra,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Myntra,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Myntra,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Myntra,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Myntra,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Myntra,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Myntra,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Myntra,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Myntra,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Myntra,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Myntra,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Myntra,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Myntra,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Myntra,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Myntra,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Myntra,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Myntra,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Myntra,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Myntra,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Myntra,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Myntra,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Myntra,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Myntra,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Myntra,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Myntra,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Myntra,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Myntra,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Myntra,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Myntra,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Myntra,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Myntra,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Myntra,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Myntra,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Myntra,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Myntra,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Myntra,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Myntra,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Myntra,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Myntra,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Myntra,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Myntra,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Myntra,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Myntra,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Myntra,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Myntra,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Myntra,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Myntra,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Myntra,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Myntra,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Myntra,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Ajio,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Ajio,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Ajio,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Ajio,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Ajio,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Ajio,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Ajio,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Ajio,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Ajio,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Ajio,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Ajio,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Ajio,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Ajio,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Ajio,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Ajio,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Ajio,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Ajio,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Ajio,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Ajio,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Ajio,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Ajio,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Ajio,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Ajio,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Ajio,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Ajio,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Ajio,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Ajio,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Ajio,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Ajio,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Ajio,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Ajio,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Ajio,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Ajio,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Ajio,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Ajio,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Ajio,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Ajio,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Ajio,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Ajio,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Ajio,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Ajio,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Ajio,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Ajio,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Ajio,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Ajio,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Ajio,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Ajio,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Ajio,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Ajio,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Ajio,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Meesho,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Meesho,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Meesho,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Meesho,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Meesho,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Meesho,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Meesho,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Meesho,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Meesho,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Meesho,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Meesho,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Meesho,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Meesho,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Meesho,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Meesho,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Meesho,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Meesho,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Meesho,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Meesho,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Meesho,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Meesho,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Meesho,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Meesho,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Meesho,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Meesho,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Meesho,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Meesho,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Meesho,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Meesho,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Meesho,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Meesho,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Meesho,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Meesho,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Meesho,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Meesho,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Meesho,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Meesho,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Meesho,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Meesho,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Meesho,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Meesho,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Meesho,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Meesho,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Meesho,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Meesho,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Meesho,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Meesho,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Meesho,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Meesho,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Meesho,7350,4.0,1,0,1
+Boat Rockerz Model 1,Headphones,Nykaa,637,3.9,2,3,2
+Sony WH Model 2,Headphones,Nykaa,774,4.0,3,6,3
+JBL Tune Model 3,Headphones,Nykaa,911,4.1,4,9,4
+Noise Headphones Model 4,Headphones,Nykaa,1048,4.2,5,12,5
+Realme Buds Model 5,Headphones,Nykaa,1185,4.3,1,15,6
+OnePlus Buds Model 6,Headphones,Nykaa,1322,4.4,2,18,7
+Apple AirPods Model 7,Headphones,Nykaa,1459,4.5,3,21,8
+Sennheiser Model 8,Headphones,Nykaa,1596,4.6,4,24,9
+Skullcandy Model 9,Headphones,Nykaa,1733,4.7,5,27,10
+Boult Audio Model 10,Headphones,Nykaa,1870,4.8,1,30,1
+Boat Rockerz Model 11,Headphones,Nykaa,2007,4.9,2,33,2
+Sony WH Model 12,Headphones,Nykaa,2144,3.8,3,36,3
+JBL Tune Model 13,Headphones,Nykaa,2281,3.9,4,39,4
+Noise Headphones Model 14,Headphones,Nykaa,2418,4.0,5,42,5
+Realme Buds Model 15,Headphones,Nykaa,2555,4.1,1,45,6
+OnePlus Buds Model 16,Headphones,Nykaa,2692,4.2,2,48,7
+Apple AirPods Model 17,Headphones,Nykaa,2829,4.3,3,1,8
+Sennheiser Model 18,Headphones,Nykaa,2966,4.4,4,4,9
+Skullcandy Model 19,Headphones,Nykaa,3103,4.5,5,7,10
+Boult Audio Model 20,Headphones,Nykaa,3240,4.6,1,10,1
+Boat Rockerz Model 21,Headphones,Nykaa,3377,4.7,2,13,2
+Sony WH Model 22,Headphones,Nykaa,3514,4.8,3,16,3
+JBL Tune Model 23,Headphones,Nykaa,3651,4.9,4,19,4
+Noise Headphones Model 24,Headphones,Nykaa,3788,3.8,5,22,5
+Realme Buds Model 25,Headphones,Nykaa,3925,3.9,1,25,6
+OnePlus Buds Model 26,Headphones,Nykaa,4062,4.0,2,28,7
+Apple AirPods Model 27,Headphones,Nykaa,4199,4.1,3,31,8
+Sennheiser Model 28,Headphones,Nykaa,4336,4.2,4,34,9
+Skullcandy Model 29,Headphones,Nykaa,4473,4.3,5,37,10
+Boult Audio Model 30,Headphones,Nykaa,4610,4.4,1,40,1
+Boat Rockerz Model 31,Headphones,Nykaa,4747,4.5,2,43,2
+Sony WH Model 32,Headphones,Nykaa,4884,4.6,3,46,3
+JBL Tune Model 33,Headphones,Nykaa,5021,4.7,4,49,4
+Noise Headphones Model 34,Headphones,Nykaa,5158,4.8,5,2,5
+Realme Buds Model 35,Headphones,Nykaa,5295,4.9,1,5,6
+OnePlus Buds Model 36,Headphones,Nykaa,5432,3.8,2,8,7
+Apple AirPods Model 37,Headphones,Nykaa,5569,3.9,3,11,8
+Sennheiser Model 38,Headphones,Nykaa,5706,4.0,4,14,9
+Skullcandy Model 39,Headphones,Nykaa,5843,4.1,5,17,10
+Boult Audio Model 40,Headphones,Nykaa,5980,4.2,1,20,1
+Boat Rockerz Model 41,Headphones,Nykaa,6117,4.3,2,23,2
+Sony WH Model 42,Headphones,Nykaa,6254,4.4,3,26,3
+JBL Tune Model 43,Headphones,Nykaa,6391,4.5,4,29,4
+Noise Headphones Model 44,Headphones,Nykaa,6528,4.6,5,32,5
+Realme Buds Model 45,Headphones,Nykaa,6665,4.7,1,35,6
+OnePlus Buds Model 46,Headphones,Nykaa,6802,4.8,2,38,7
+Apple AirPods Model 47,Headphones,Nykaa,6939,4.9,3,41,8
+Sennheiser Model 48,Headphones,Nykaa,7076,3.8,4,44,9
+Skullcandy Model 49,Headphones,Nykaa,7213,3.9,5,47,10
+Boult Audio Model 50,Headphones,Nykaa,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Amazon,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Amazon,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Amazon,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Amazon,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Amazon,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Amazon,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Amazon,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Amazon,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Amazon,1733,4.7,5,27,10
+Garmin Model 10,Watches,Amazon,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Amazon,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Amazon,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Amazon,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Amazon,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Amazon,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Amazon,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Amazon,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Amazon,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Amazon,3103,4.5,5,7,10
+Garmin Model 20,Watches,Amazon,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Amazon,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Amazon,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Amazon,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Amazon,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Amazon,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Amazon,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Amazon,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Amazon,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Amazon,4473,4.3,5,37,10
+Garmin Model 30,Watches,Amazon,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Amazon,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Amazon,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Amazon,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Amazon,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Amazon,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Amazon,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Amazon,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Amazon,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Amazon,5843,4.1,5,17,10
+Garmin Model 40,Watches,Amazon,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Amazon,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Amazon,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Amazon,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Amazon,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Amazon,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Amazon,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Amazon,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Amazon,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Amazon,7213,3.9,5,47,10
+Garmin Model 50,Watches,Amazon,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Flipkart,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Flipkart,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Flipkart,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Flipkart,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Flipkart,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Flipkart,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Flipkart,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Flipkart,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Flipkart,1733,4.7,5,27,10
+Garmin Model 10,Watches,Flipkart,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Flipkart,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Flipkart,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Flipkart,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Flipkart,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Flipkart,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Flipkart,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Flipkart,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Flipkart,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Flipkart,3103,4.5,5,7,10
+Garmin Model 20,Watches,Flipkart,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Flipkart,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Flipkart,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Flipkart,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Flipkart,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Flipkart,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Flipkart,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Flipkart,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Flipkart,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Flipkart,4473,4.3,5,37,10
+Garmin Model 30,Watches,Flipkart,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Flipkart,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Flipkart,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Flipkart,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Flipkart,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Flipkart,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Flipkart,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Flipkart,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Flipkart,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Flipkart,5843,4.1,5,17,10
+Garmin Model 40,Watches,Flipkart,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Flipkart,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Flipkart,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Flipkart,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Flipkart,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Flipkart,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Flipkart,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Flipkart,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Flipkart,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Flipkart,7213,3.9,5,47,10
+Garmin Model 50,Watches,Flipkart,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Myntra,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Myntra,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Myntra,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Myntra,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Myntra,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Myntra,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Myntra,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Myntra,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Myntra,1733,4.7,5,27,10
+Garmin Model 10,Watches,Myntra,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Myntra,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Myntra,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Myntra,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Myntra,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Myntra,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Myntra,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Myntra,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Myntra,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Myntra,3103,4.5,5,7,10
+Garmin Model 20,Watches,Myntra,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Myntra,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Myntra,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Myntra,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Myntra,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Myntra,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Myntra,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Myntra,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Myntra,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Myntra,4473,4.3,5,37,10
+Garmin Model 30,Watches,Myntra,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Myntra,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Myntra,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Myntra,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Myntra,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Myntra,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Myntra,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Myntra,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Myntra,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Myntra,5843,4.1,5,17,10
+Garmin Model 40,Watches,Myntra,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Myntra,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Myntra,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Myntra,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Myntra,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Myntra,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Myntra,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Myntra,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Myntra,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Myntra,7213,3.9,5,47,10
+Garmin Model 50,Watches,Myntra,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Ajio,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Ajio,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Ajio,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Ajio,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Ajio,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Ajio,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Ajio,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Ajio,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Ajio,1733,4.7,5,27,10
+Garmin Model 10,Watches,Ajio,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Ajio,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Ajio,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Ajio,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Ajio,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Ajio,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Ajio,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Ajio,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Ajio,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Ajio,3103,4.5,5,7,10
+Garmin Model 20,Watches,Ajio,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Ajio,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Ajio,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Ajio,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Ajio,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Ajio,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Ajio,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Ajio,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Ajio,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Ajio,4473,4.3,5,37,10
+Garmin Model 30,Watches,Ajio,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Ajio,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Ajio,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Ajio,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Ajio,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Ajio,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Ajio,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Ajio,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Ajio,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Ajio,5843,4.1,5,17,10
+Garmin Model 40,Watches,Ajio,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Ajio,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Ajio,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Ajio,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Ajio,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Ajio,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Ajio,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Ajio,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Ajio,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Ajio,7213,3.9,5,47,10
+Garmin Model 50,Watches,Ajio,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Meesho,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Meesho,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Meesho,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Meesho,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Meesho,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Meesho,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Meesho,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Meesho,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Meesho,1733,4.7,5,27,10
+Garmin Model 10,Watches,Meesho,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Meesho,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Meesho,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Meesho,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Meesho,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Meesho,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Meesho,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Meesho,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Meesho,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Meesho,3103,4.5,5,7,10
+Garmin Model 20,Watches,Meesho,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Meesho,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Meesho,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Meesho,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Meesho,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Meesho,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Meesho,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Meesho,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Meesho,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Meesho,4473,4.3,5,37,10
+Garmin Model 30,Watches,Meesho,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Meesho,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Meesho,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Meesho,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Meesho,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Meesho,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Meesho,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Meesho,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Meesho,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Meesho,5843,4.1,5,17,10
+Garmin Model 40,Watches,Meesho,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Meesho,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Meesho,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Meesho,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Meesho,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Meesho,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Meesho,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Meesho,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Meesho,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Meesho,7213,3.9,5,47,10
+Garmin Model 50,Watches,Meesho,7350,4.0,1,0,1
+Apple Watch Model 1,Watches,Nykaa,637,3.9,2,3,2
+Noise Watch Model 2,Watches,Nykaa,774,4.0,3,6,3
+Fire-Boltt Model 3,Watches,Nykaa,911,4.1,4,9,4
+boAt Watch Model 4,Watches,Nykaa,1048,4.2,5,12,5
+Samsung Watch Model 5,Watches,Nykaa,1185,4.3,1,15,6
+Fastrack Model 6,Watches,Nykaa,1322,4.4,2,18,7
+Titan Smart Model 7,Watches,Nykaa,1459,4.5,3,21,8
+Amazfit Model 8,Watches,Nykaa,1596,4.6,4,24,9
+Fitbit Model 9,Watches,Nykaa,1733,4.7,5,27,10
+Garmin Model 10,Watches,Nykaa,1870,4.8,1,30,1
+Apple Watch Model 11,Watches,Nykaa,2007,4.9,2,33,2
+Noise Watch Model 12,Watches,Nykaa,2144,3.8,3,36,3
+Fire-Boltt Model 13,Watches,Nykaa,2281,3.9,4,39,4
+boAt Watch Model 14,Watches,Nykaa,2418,4.0,5,42,5
+Samsung Watch Model 15,Watches,Nykaa,2555,4.1,1,45,6
+Fastrack Model 16,Watches,Nykaa,2692,4.2,2,48,7
+Titan Smart Model 17,Watches,Nykaa,2829,4.3,3,1,8
+Amazfit Model 18,Watches,Nykaa,2966,4.4,4,4,9
+Fitbit Model 19,Watches,Nykaa,3103,4.5,5,7,10
+Garmin Model 20,Watches,Nykaa,3240,4.6,1,10,1
+Apple Watch Model 21,Watches,Nykaa,3377,4.7,2,13,2
+Noise Watch Model 22,Watches,Nykaa,3514,4.8,3,16,3
+Fire-Boltt Model 23,Watches,Nykaa,3651,4.9,4,19,4
+boAt Watch Model 24,Watches,Nykaa,3788,3.8,5,22,5
+Samsung Watch Model 25,Watches,Nykaa,3925,3.9,1,25,6
+Fastrack Model 26,Watches,Nykaa,4062,4.0,2,28,7
+Titan Smart Model 27,Watches,Nykaa,4199,4.1,3,31,8
+Amazfit Model 28,Watches,Nykaa,4336,4.2,4,34,9
+Fitbit Model 29,Watches,Nykaa,4473,4.3,5,37,10
+Garmin Model 30,Watches,Nykaa,4610,4.4,1,40,1
+Apple Watch Model 31,Watches,Nykaa,4747,4.5,2,43,2
+Noise Watch Model 32,Watches,Nykaa,4884,4.6,3,46,3
+Fire-Boltt Model 33,Watches,Nykaa,5021,4.7,4,49,4
+boAt Watch Model 34,Watches,Nykaa,5158,4.8,5,2,5
+Samsung Watch Model 35,Watches,Nykaa,5295,4.9,1,5,6
+Fastrack Model 36,Watches,Nykaa,5432,3.8,2,8,7
+Titan Smart Model 37,Watches,Nykaa,5569,3.9,3,11,8
+Amazfit Model 38,Watches,Nykaa,5706,4.0,4,14,9
+Fitbit Model 39,Watches,Nykaa,5843,4.1,5,17,10
+Garmin Model 40,Watches,Nykaa,5980,4.2,1,20,1
+Apple Watch Model 41,Watches,Nykaa,6117,4.3,2,23,2
+Noise Watch Model 42,Watches,Nykaa,6254,4.4,3,26,3
+Fire-Boltt Model 43,Watches,Nykaa,6391,4.5,4,29,4
+boAt Watch Model 44,Watches,Nykaa,6528,4.6,5,32,5
+Samsung Watch Model 45,Watches,Nykaa,6665,4.7,1,35,6
+Fastrack Model 46,Watches,Nykaa,6802,4.8,2,38,7
+Titan Smart Model 47,Watches,Nykaa,6939,4.9,3,41,8
+Amazfit Model 48,Watches,Nykaa,7076,3.8,4,44,9
+Fitbit Model 49,Watches,Nykaa,7213,3.9,5,47,10
+Garmin Model 50,Watches,Nykaa,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Amazon,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Amazon,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Amazon,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Amazon,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Amazon,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Amazon,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Amazon,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Amazon,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Amazon,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Amazon,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Amazon,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Amazon,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Amazon,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Amazon,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Amazon,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Amazon,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Amazon,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Amazon,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Amazon,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Amazon,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Amazon,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Amazon,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Amazon,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Amazon,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Amazon,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Amazon,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Amazon,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Amazon,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Amazon,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Amazon,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Amazon,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Amazon,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Amazon,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Amazon,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Amazon,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Amazon,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Amazon,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Amazon,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Amazon,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Amazon,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Amazon,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Amazon,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Amazon,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Amazon,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Amazon,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Amazon,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Amazon,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Amazon,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Amazon,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Amazon,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Flipkart,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Flipkart,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Flipkart,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Flipkart,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Flipkart,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Flipkart,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Flipkart,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Flipkart,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Flipkart,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Flipkart,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Flipkart,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Flipkart,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Flipkart,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Flipkart,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Flipkart,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Flipkart,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Flipkart,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Flipkart,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Flipkart,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Flipkart,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Flipkart,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Flipkart,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Flipkart,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Flipkart,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Flipkart,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Flipkart,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Flipkart,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Flipkart,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Flipkart,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Flipkart,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Flipkart,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Flipkart,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Flipkart,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Flipkart,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Flipkart,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Flipkart,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Flipkart,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Flipkart,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Flipkart,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Flipkart,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Flipkart,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Flipkart,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Flipkart,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Flipkart,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Flipkart,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Flipkart,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Flipkart,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Flipkart,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Flipkart,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Flipkart,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Myntra,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Myntra,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Myntra,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Myntra,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Myntra,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Myntra,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Myntra,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Myntra,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Myntra,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Myntra,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Myntra,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Myntra,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Myntra,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Myntra,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Myntra,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Myntra,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Myntra,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Myntra,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Myntra,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Myntra,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Myntra,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Myntra,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Myntra,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Myntra,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Myntra,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Myntra,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Myntra,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Myntra,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Myntra,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Myntra,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Myntra,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Myntra,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Myntra,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Myntra,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Myntra,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Myntra,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Myntra,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Myntra,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Myntra,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Myntra,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Myntra,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Myntra,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Myntra,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Myntra,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Myntra,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Myntra,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Myntra,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Myntra,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Myntra,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Myntra,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Ajio,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Ajio,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Ajio,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Ajio,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Ajio,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Ajio,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Ajio,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Ajio,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Ajio,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Ajio,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Ajio,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Ajio,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Ajio,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Ajio,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Ajio,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Ajio,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Ajio,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Ajio,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Ajio,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Ajio,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Ajio,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Ajio,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Ajio,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Ajio,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Ajio,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Ajio,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Ajio,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Ajio,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Ajio,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Ajio,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Ajio,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Ajio,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Ajio,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Ajio,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Ajio,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Ajio,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Ajio,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Ajio,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Ajio,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Ajio,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Ajio,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Ajio,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Ajio,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Ajio,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Ajio,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Ajio,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Ajio,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Ajio,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Ajio,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Ajio,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Meesho,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Meesho,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Meesho,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Meesho,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Meesho,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Meesho,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Meesho,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Meesho,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Meesho,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Meesho,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Meesho,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Meesho,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Meesho,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Meesho,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Meesho,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Meesho,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Meesho,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Meesho,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Meesho,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Meesho,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Meesho,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Meesho,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Meesho,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Meesho,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Meesho,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Meesho,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Meesho,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Meesho,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Meesho,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Meesho,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Meesho,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Meesho,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Meesho,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Meesho,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Meesho,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Meesho,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Meesho,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Meesho,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Meesho,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Meesho,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Meesho,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Meesho,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Meesho,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Meesho,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Meesho,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Meesho,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Meesho,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Meesho,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Meesho,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Meesho,7350,4.0,1,0,1
+Nike Running Model 1,Shoes,Nykaa,637,3.9,2,3,2
+Adidas Sports Model 2,Shoes,Nykaa,774,4.0,3,6,3
+Puma Casual Model 3,Shoes,Nykaa,911,4.1,4,9,4
+Reebok Trainer Model 4,Shoes,Nykaa,1048,4.2,5,12,5
+Skechers Go Model 5,Shoes,Nykaa,1185,4.3,1,15,6
+Woodland Trek Model 6,Shoes,Nykaa,1322,4.4,2,18,7
+Bata Comfort Model 7,Shoes,Nykaa,1459,4.5,3,21,8
+Campus Pro Model 8,Shoes,Nykaa,1596,4.6,4,24,9
+ASICS Run Model 9,Shoes,Nykaa,1733,4.7,5,27,10
+New Balance Model 10,Shoes,Nykaa,1870,4.8,1,30,1
+Nike Running Model 11,Shoes,Nykaa,2007,4.9,2,33,2
+Adidas Sports Model 12,Shoes,Nykaa,2144,3.8,3,36,3
+Puma Casual Model 13,Shoes,Nykaa,2281,3.9,4,39,4
+Reebok Trainer Model 14,Shoes,Nykaa,2418,4.0,5,42,5
+Skechers Go Model 15,Shoes,Nykaa,2555,4.1,1,45,6
+Woodland Trek Model 16,Shoes,Nykaa,2692,4.2,2,48,7
+Bata Comfort Model 17,Shoes,Nykaa,2829,4.3,3,1,8
+Campus Pro Model 18,Shoes,Nykaa,2966,4.4,4,4,9
+ASICS Run Model 19,Shoes,Nykaa,3103,4.5,5,7,10
+New Balance Model 20,Shoes,Nykaa,3240,4.6,1,10,1
+Nike Running Model 21,Shoes,Nykaa,3377,4.7,2,13,2
+Adidas Sports Model 22,Shoes,Nykaa,3514,4.8,3,16,3
+Puma Casual Model 23,Shoes,Nykaa,3651,4.9,4,19,4
+Reebok Trainer Model 24,Shoes,Nykaa,3788,3.8,5,22,5
+Skechers Go Model 25,Shoes,Nykaa,3925,3.9,1,25,6
+Woodland Trek Model 26,Shoes,Nykaa,4062,4.0,2,28,7
+Bata Comfort Model 27,Shoes,Nykaa,4199,4.1,3,31,8
+Campus Pro Model 28,Shoes,Nykaa,4336,4.2,4,34,9
+ASICS Run Model 29,Shoes,Nykaa,4473,4.3,5,37,10
+New Balance Model 30,Shoes,Nykaa,4610,4.4,1,40,1
+Nike Running Model 31,Shoes,Nykaa,4747,4.5,2,43,2
+Adidas Sports Model 32,Shoes,Nykaa,4884,4.6,3,46,3
+Puma Casual Model 33,Shoes,Nykaa,5021,4.7,4,49,4
+Reebok Trainer Model 34,Shoes,Nykaa,5158,4.8,5,2,5
+Skechers Go Model 35,Shoes,Nykaa,5295,4.9,1,5,6
+Woodland Trek Model 36,Shoes,Nykaa,5432,3.8,2,8,7
+Bata Comfort Model 37,Shoes,Nykaa,5569,3.9,3,11,8
+Campus Pro Model 38,Shoes,Nykaa,5706,4.0,4,14,9
+ASICS Run Model 39,Shoes,Nykaa,5843,4.1,5,17,10
+New Balance Model 40,Shoes,Nykaa,5980,4.2,1,20,1
+Nike Running Model 41,Shoes,Nykaa,6117,4.3,2,23,2
+Adidas Sports Model 42,Shoes,Nykaa,6254,4.4,3,26,3
+Puma Casual Model 43,Shoes,Nykaa,6391,4.5,4,29,4
+Reebok Trainer Model 44,Shoes,Nykaa,6528,4.6,5,32,5
+Skechers Go Model 45,Shoes,Nykaa,6665,4.7,1,35,6
+Woodland Trek Model 46,Shoes,Nykaa,6802,4.8,2,38,7
+Bata Comfort Model 47,Shoes,Nykaa,6939,4.9,3,41,8
+Campus Pro Model 48,Shoes,Nykaa,7076,3.8,4,44,9
+ASICS Run Model 49,Shoes,Nykaa,7213,3.9,5,47,10
+New Balance Model 50,Shoes,Nykaa,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Amazon,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Amazon,774,4.0,3,6,3
+Peter England Model 3,Clothing,Amazon,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Amazon,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Amazon,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Amazon,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Amazon,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Amazon,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Amazon,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Amazon,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Amazon,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Amazon,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Amazon,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Amazon,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Amazon,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Amazon,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Amazon,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Amazon,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Amazon,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Amazon,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Amazon,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Amazon,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Amazon,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Amazon,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Amazon,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Amazon,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Amazon,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Amazon,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Amazon,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Amazon,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Amazon,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Amazon,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Amazon,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Amazon,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Amazon,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Amazon,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Amazon,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Amazon,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Amazon,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Amazon,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Amazon,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Amazon,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Amazon,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Amazon,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Amazon,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Amazon,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Amazon,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Amazon,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Amazon,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Amazon,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Flipkart,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Flipkart,774,4.0,3,6,3
+Peter England Model 3,Clothing,Flipkart,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Flipkart,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Flipkart,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Flipkart,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Flipkart,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Flipkart,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Flipkart,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Flipkart,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Flipkart,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Flipkart,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Flipkart,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Flipkart,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Flipkart,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Flipkart,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Flipkart,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Flipkart,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Flipkart,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Flipkart,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Flipkart,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Flipkart,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Flipkart,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Flipkart,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Flipkart,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Flipkart,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Flipkart,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Flipkart,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Flipkart,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Flipkart,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Flipkart,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Flipkart,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Flipkart,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Flipkart,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Flipkart,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Flipkart,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Flipkart,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Flipkart,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Flipkart,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Flipkart,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Flipkart,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Flipkart,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Flipkart,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Flipkart,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Flipkart,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Flipkart,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Flipkart,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Flipkart,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Flipkart,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Flipkart,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Myntra,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Myntra,774,4.0,3,6,3
+Peter England Model 3,Clothing,Myntra,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Myntra,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Myntra,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Myntra,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Myntra,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Myntra,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Myntra,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Myntra,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Myntra,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Myntra,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Myntra,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Myntra,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Myntra,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Myntra,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Myntra,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Myntra,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Myntra,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Myntra,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Myntra,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Myntra,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Myntra,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Myntra,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Myntra,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Myntra,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Myntra,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Myntra,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Myntra,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Myntra,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Myntra,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Myntra,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Myntra,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Myntra,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Myntra,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Myntra,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Myntra,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Myntra,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Myntra,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Myntra,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Myntra,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Myntra,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Myntra,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Myntra,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Myntra,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Myntra,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Myntra,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Myntra,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Myntra,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Myntra,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Ajio,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Ajio,774,4.0,3,6,3
+Peter England Model 3,Clothing,Ajio,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Ajio,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Ajio,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Ajio,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Ajio,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Ajio,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Ajio,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Ajio,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Ajio,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Ajio,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Ajio,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Ajio,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Ajio,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Ajio,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Ajio,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Ajio,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Ajio,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Ajio,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Ajio,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Ajio,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Ajio,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Ajio,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Ajio,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Ajio,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Ajio,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Ajio,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Ajio,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Ajio,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Ajio,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Ajio,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Ajio,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Ajio,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Ajio,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Ajio,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Ajio,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Ajio,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Ajio,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Ajio,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Ajio,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Ajio,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Ajio,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Ajio,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Ajio,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Ajio,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Ajio,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Ajio,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Ajio,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Ajio,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Meesho,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Meesho,774,4.0,3,6,3
+Peter England Model 3,Clothing,Meesho,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Meesho,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Meesho,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Meesho,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Meesho,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Meesho,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Meesho,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Meesho,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Meesho,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Meesho,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Meesho,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Meesho,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Meesho,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Meesho,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Meesho,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Meesho,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Meesho,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Meesho,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Meesho,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Meesho,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Meesho,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Meesho,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Meesho,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Meesho,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Meesho,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Meesho,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Meesho,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Meesho,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Meesho,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Meesho,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Meesho,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Meesho,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Meesho,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Meesho,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Meesho,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Meesho,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Meesho,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Meesho,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Meesho,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Meesho,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Meesho,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Meesho,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Meesho,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Meesho,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Meesho,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Meesho,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Meesho,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Meesho,7350,4.0,1,0,1
+Levis Jeans Model 1,Clothing,Nykaa,637,3.9,2,3,2
+Allen Solly Shirt Model 2,Clothing,Nykaa,774,4.0,3,6,3
+Peter England Model 3,Clothing,Nykaa,911,4.1,4,9,4
+Van Heusen Model 4,Clothing,Nykaa,1048,4.2,5,12,5
+US Polo Model 5,Clothing,Nykaa,1185,4.3,1,15,6
+Wrangler Model 6,Clothing,Nykaa,1322,4.4,2,18,7
+H&M Tee Model 7,Clothing,Nykaa,1459,4.5,3,21,8
+Zara Shirt Model 8,Clothing,Nykaa,1596,4.6,4,24,9
+Roadster Jeans Model 9,Clothing,Nykaa,1733,4.7,5,27,10
+Wrogn Tee Model 10,Clothing,Nykaa,1870,4.8,1,30,1
+Levis Jeans Model 11,Clothing,Nykaa,2007,4.9,2,33,2
+Allen Solly Shirt Model 12,Clothing,Nykaa,2144,3.8,3,36,3
+Peter England Model 13,Clothing,Nykaa,2281,3.9,4,39,4
+Van Heusen Model 14,Clothing,Nykaa,2418,4.0,5,42,5
+US Polo Model 15,Clothing,Nykaa,2555,4.1,1,45,6
+Wrangler Model 16,Clothing,Nykaa,2692,4.2,2,48,7
+H&M Tee Model 17,Clothing,Nykaa,2829,4.3,3,1,8
+Zara Shirt Model 18,Clothing,Nykaa,2966,4.4,4,4,9
+Roadster Jeans Model 19,Clothing,Nykaa,3103,4.5,5,7,10
+Wrogn Tee Model 20,Clothing,Nykaa,3240,4.6,1,10,1
+Levis Jeans Model 21,Clothing,Nykaa,3377,4.7,2,13,2
+Allen Solly Shirt Model 22,Clothing,Nykaa,3514,4.8,3,16,3
+Peter England Model 23,Clothing,Nykaa,3651,4.9,4,19,4
+Van Heusen Model 24,Clothing,Nykaa,3788,3.8,5,22,5
+US Polo Model 25,Clothing,Nykaa,3925,3.9,1,25,6
+Wrangler Model 26,Clothing,Nykaa,4062,4.0,2,28,7
+H&M Tee Model 27,Clothing,Nykaa,4199,4.1,3,31,8
+Zara Shirt Model 28,Clothing,Nykaa,4336,4.2,4,34,9
+Roadster Jeans Model 29,Clothing,Nykaa,4473,4.3,5,37,10
+Wrogn Tee Model 30,Clothing,Nykaa,4610,4.4,1,40,1
+Levis Jeans Model 31,Clothing,Nykaa,4747,4.5,2,43,2
+Allen Solly Shirt Model 32,Clothing,Nykaa,4884,4.6,3,46,3
+Peter England Model 33,Clothing,Nykaa,5021,4.7,4,49,4
+Van Heusen Model 34,Clothing,Nykaa,5158,4.8,5,2,5
+US Polo Model 35,Clothing,Nykaa,5295,4.9,1,5,6
+Wrangler Model 36,Clothing,Nykaa,5432,3.8,2,8,7
+H&M Tee Model 37,Clothing,Nykaa,5569,3.9,3,11,8
+Zara Shirt Model 38,Clothing,Nykaa,5706,4.0,4,14,9
+Roadster Jeans Model 39,Clothing,Nykaa,5843,4.1,5,17,10
+Wrogn Tee Model 40,Clothing,Nykaa,5980,4.2,1,20,1
+Levis Jeans Model 41,Clothing,Nykaa,6117,4.3,2,23,2
+Allen Solly Shirt Model 42,Clothing,Nykaa,6254,4.4,3,26,3
+Peter England Model 43,Clothing,Nykaa,6391,4.5,4,29,4
+Van Heusen Model 44,Clothing,Nykaa,6528,4.6,5,32,5
+US Polo Model 45,Clothing,Nykaa,6665,4.7,1,35,6
+Wrangler Model 46,Clothing,Nykaa,6802,4.8,2,38,7
+H&M Tee Model 47,Clothing,Nykaa,6939,4.9,3,41,8
+Zara Shirt Model 48,Clothing,Nykaa,7076,3.8,4,44,9
+Roadster Jeans Model 49,Clothing,Nykaa,7213,3.9,5,47,10
+Wrogn Tee Model 50,Clothing,Nykaa,7350,4.0,1,0,1
+Python Guide Model 1,Books,Amazon,637,3.9,2,3,2
+AI Basics Model 2,Books,Amazon,774,4.0,3,6,3
+Data Science Model 3,Books,Amazon,911,4.1,4,9,4
+Algorithms Model 4,Books,Amazon,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Amazon,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Amazon,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Amazon,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Amazon,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Amazon,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Amazon,1870,4.8,1,30,1
+Python Guide Model 11,Books,Amazon,2007,4.9,2,33,2
+AI Basics Model 12,Books,Amazon,2144,3.8,3,36,3
+Data Science Model 13,Books,Amazon,2281,3.9,4,39,4
+Algorithms Model 14,Books,Amazon,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Amazon,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Amazon,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Amazon,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Amazon,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Amazon,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Amazon,3240,4.6,1,10,1
+Python Guide Model 21,Books,Amazon,3377,4.7,2,13,2
+AI Basics Model 22,Books,Amazon,3514,4.8,3,16,3
+Data Science Model 23,Books,Amazon,3651,4.9,4,19,4
+Algorithms Model 24,Books,Amazon,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Amazon,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Amazon,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Amazon,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Amazon,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Amazon,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Amazon,4610,4.4,1,40,1
+Python Guide Model 31,Books,Amazon,4747,4.5,2,43,2
+AI Basics Model 32,Books,Amazon,4884,4.6,3,46,3
+Data Science Model 33,Books,Amazon,5021,4.7,4,49,4
+Algorithms Model 34,Books,Amazon,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Amazon,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Amazon,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Amazon,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Amazon,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Amazon,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Amazon,5980,4.2,1,20,1
+Python Guide Model 41,Books,Amazon,6117,4.3,2,23,2
+AI Basics Model 42,Books,Amazon,6254,4.4,3,26,3
+Data Science Model 43,Books,Amazon,6391,4.5,4,29,4
+Algorithms Model 44,Books,Amazon,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Amazon,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Amazon,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Amazon,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Amazon,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Amazon,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Amazon,7350,4.0,1,0,1
+Python Guide Model 1,Books,Flipkart,637,3.9,2,3,2
+AI Basics Model 2,Books,Flipkart,774,4.0,3,6,3
+Data Science Model 3,Books,Flipkart,911,4.1,4,9,4
+Algorithms Model 4,Books,Flipkart,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Flipkart,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Flipkart,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Flipkart,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Flipkart,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Flipkart,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Flipkart,1870,4.8,1,30,1
+Python Guide Model 11,Books,Flipkart,2007,4.9,2,33,2
+AI Basics Model 12,Books,Flipkart,2144,3.8,3,36,3
+Data Science Model 13,Books,Flipkart,2281,3.9,4,39,4
+Algorithms Model 14,Books,Flipkart,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Flipkart,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Flipkart,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Flipkart,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Flipkart,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Flipkart,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Flipkart,3240,4.6,1,10,1
+Python Guide Model 21,Books,Flipkart,3377,4.7,2,13,2
+AI Basics Model 22,Books,Flipkart,3514,4.8,3,16,3
+Data Science Model 23,Books,Flipkart,3651,4.9,4,19,4
+Algorithms Model 24,Books,Flipkart,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Flipkart,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Flipkart,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Flipkart,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Flipkart,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Flipkart,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Flipkart,4610,4.4,1,40,1
+Python Guide Model 31,Books,Flipkart,4747,4.5,2,43,2
+AI Basics Model 32,Books,Flipkart,4884,4.6,3,46,3
+Data Science Model 33,Books,Flipkart,5021,4.7,4,49,4
+Algorithms Model 34,Books,Flipkart,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Flipkart,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Flipkart,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Flipkart,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Flipkart,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Flipkart,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Flipkart,5980,4.2,1,20,1
+Python Guide Model 41,Books,Flipkart,6117,4.3,2,23,2
+AI Basics Model 42,Books,Flipkart,6254,4.4,3,26,3
+Data Science Model 43,Books,Flipkart,6391,4.5,4,29,4
+Algorithms Model 44,Books,Flipkart,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Flipkart,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Flipkart,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Flipkart,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Flipkart,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Flipkart,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Flipkart,7350,4.0,1,0,1
+Python Guide Model 1,Books,Myntra,637,3.9,2,3,2
+AI Basics Model 2,Books,Myntra,774,4.0,3,6,3
+Data Science Model 3,Books,Myntra,911,4.1,4,9,4
+Algorithms Model 4,Books,Myntra,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Myntra,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Myntra,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Myntra,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Myntra,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Myntra,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Myntra,1870,4.8,1,30,1
+Python Guide Model 11,Books,Myntra,2007,4.9,2,33,2
+AI Basics Model 12,Books,Myntra,2144,3.8,3,36,3
+Data Science Model 13,Books,Myntra,2281,3.9,4,39,4
+Algorithms Model 14,Books,Myntra,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Myntra,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Myntra,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Myntra,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Myntra,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Myntra,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Myntra,3240,4.6,1,10,1
+Python Guide Model 21,Books,Myntra,3377,4.7,2,13,2
+AI Basics Model 22,Books,Myntra,3514,4.8,3,16,3
+Data Science Model 23,Books,Myntra,3651,4.9,4,19,4
+Algorithms Model 24,Books,Myntra,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Myntra,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Myntra,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Myntra,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Myntra,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Myntra,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Myntra,4610,4.4,1,40,1
+Python Guide Model 31,Books,Myntra,4747,4.5,2,43,2
+AI Basics Model 32,Books,Myntra,4884,4.6,3,46,3
+Data Science Model 33,Books,Myntra,5021,4.7,4,49,4
+Algorithms Model 34,Books,Myntra,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Myntra,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Myntra,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Myntra,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Myntra,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Myntra,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Myntra,5980,4.2,1,20,1
+Python Guide Model 41,Books,Myntra,6117,4.3,2,23,2
+AI Basics Model 42,Books,Myntra,6254,4.4,3,26,3
+Data Science Model 43,Books,Myntra,6391,4.5,4,29,4
+Algorithms Model 44,Books,Myntra,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Myntra,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Myntra,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Myntra,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Myntra,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Myntra,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Myntra,7350,4.0,1,0,1
+Python Guide Model 1,Books,Ajio,637,3.9,2,3,2
+AI Basics Model 2,Books,Ajio,774,4.0,3,6,3
+Data Science Model 3,Books,Ajio,911,4.1,4,9,4
+Algorithms Model 4,Books,Ajio,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Ajio,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Ajio,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Ajio,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Ajio,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Ajio,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Ajio,1870,4.8,1,30,1
+Python Guide Model 11,Books,Ajio,2007,4.9,2,33,2
+AI Basics Model 12,Books,Ajio,2144,3.8,3,36,3
+Data Science Model 13,Books,Ajio,2281,3.9,4,39,4
+Algorithms Model 14,Books,Ajio,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Ajio,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Ajio,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Ajio,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Ajio,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Ajio,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Ajio,3240,4.6,1,10,1
+Python Guide Model 21,Books,Ajio,3377,4.7,2,13,2
+AI Basics Model 22,Books,Ajio,3514,4.8,3,16,3
+Data Science Model 23,Books,Ajio,3651,4.9,4,19,4
+Algorithms Model 24,Books,Ajio,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Ajio,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Ajio,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Ajio,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Ajio,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Ajio,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Ajio,4610,4.4,1,40,1
+Python Guide Model 31,Books,Ajio,4747,4.5,2,43,2
+AI Basics Model 32,Books,Ajio,4884,4.6,3,46,3
+Data Science Model 33,Books,Ajio,5021,4.7,4,49,4
+Algorithms Model 34,Books,Ajio,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Ajio,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Ajio,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Ajio,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Ajio,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Ajio,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Ajio,5980,4.2,1,20,1
+Python Guide Model 41,Books,Ajio,6117,4.3,2,23,2
+AI Basics Model 42,Books,Ajio,6254,4.4,3,26,3
+Data Science Model 43,Books,Ajio,6391,4.5,4,29,4
+Algorithms Model 44,Books,Ajio,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Ajio,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Ajio,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Ajio,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Ajio,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Ajio,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Ajio,7350,4.0,1,0,1
+Python Guide Model 1,Books,Meesho,637,3.9,2,3,2
+AI Basics Model 2,Books,Meesho,774,4.0,3,6,3
+Data Science Model 3,Books,Meesho,911,4.1,4,9,4
+Algorithms Model 4,Books,Meesho,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Meesho,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Meesho,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Meesho,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Meesho,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Meesho,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Meesho,1870,4.8,1,30,1
+Python Guide Model 11,Books,Meesho,2007,4.9,2,33,2
+AI Basics Model 12,Books,Meesho,2144,3.8,3,36,3
+Data Science Model 13,Books,Meesho,2281,3.9,4,39,4
+Algorithms Model 14,Books,Meesho,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Meesho,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Meesho,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Meesho,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Meesho,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Meesho,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Meesho,3240,4.6,1,10,1
+Python Guide Model 21,Books,Meesho,3377,4.7,2,13,2
+AI Basics Model 22,Books,Meesho,3514,4.8,3,16,3
+Data Science Model 23,Books,Meesho,3651,4.9,4,19,4
+Algorithms Model 24,Books,Meesho,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Meesho,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Meesho,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Meesho,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Meesho,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Meesho,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Meesho,4610,4.4,1,40,1
+Python Guide Model 31,Books,Meesho,4747,4.5,2,43,2
+AI Basics Model 32,Books,Meesho,4884,4.6,3,46,3
+Data Science Model 33,Books,Meesho,5021,4.7,4,49,4
+Algorithms Model 34,Books,Meesho,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Meesho,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Meesho,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Meesho,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Meesho,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Meesho,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Meesho,5980,4.2,1,20,1
+Python Guide Model 41,Books,Meesho,6117,4.3,2,23,2
+AI Basics Model 42,Books,Meesho,6254,4.4,3,26,3
+Data Science Model 43,Books,Meesho,6391,4.5,4,29,4
+Algorithms Model 44,Books,Meesho,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Meesho,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Meesho,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Meesho,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Meesho,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Meesho,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Meesho,7350,4.0,1,0,1
+Python Guide Model 1,Books,Nykaa,637,3.9,2,3,2
+AI Basics Model 2,Books,Nykaa,774,4.0,3,6,3
+Data Science Model 3,Books,Nykaa,911,4.1,4,9,4
+Algorithms Model 4,Books,Nykaa,1048,4.2,5,12,5
+DBMS Concepts Model 5,Books,Nykaa,1185,4.3,1,15,6
+Machine Learning Model 6,Books,Nykaa,1322,4.4,2,18,7
+Deep Learning Model 7,Books,Nykaa,1459,4.5,3,21,8
+NLP Handbook Model 8,Books,Nykaa,1596,4.6,4,24,9
+Operating Systems Model 9,Books,Nykaa,1733,4.7,5,27,10
+Computer Networks Model 10,Books,Nykaa,1870,4.8,1,30,1
+Python Guide Model 11,Books,Nykaa,2007,4.9,2,33,2
+AI Basics Model 12,Books,Nykaa,2144,3.8,3,36,3
+Data Science Model 13,Books,Nykaa,2281,3.9,4,39,4
+Algorithms Model 14,Books,Nykaa,2418,4.0,5,42,5
+DBMS Concepts Model 15,Books,Nykaa,2555,4.1,1,45,6
+Machine Learning Model 16,Books,Nykaa,2692,4.2,2,48,7
+Deep Learning Model 17,Books,Nykaa,2829,4.3,3,1,8
+NLP Handbook Model 18,Books,Nykaa,2966,4.4,4,4,9
+Operating Systems Model 19,Books,Nykaa,3103,4.5,5,7,10
+Computer Networks Model 20,Books,Nykaa,3240,4.6,1,10,1
+Python Guide Model 21,Books,Nykaa,3377,4.7,2,13,2
+AI Basics Model 22,Books,Nykaa,3514,4.8,3,16,3
+Data Science Model 23,Books,Nykaa,3651,4.9,4,19,4
+Algorithms Model 24,Books,Nykaa,3788,3.8,5,22,5
+DBMS Concepts Model 25,Books,Nykaa,3925,3.9,1,25,6
+Machine Learning Model 26,Books,Nykaa,4062,4.0,2,28,7
+Deep Learning Model 27,Books,Nykaa,4199,4.1,3,31,8
+NLP Handbook Model 28,Books,Nykaa,4336,4.2,4,34,9
+Operating Systems Model 29,Books,Nykaa,4473,4.3,5,37,10
+Computer Networks Model 30,Books,Nykaa,4610,4.4,1,40,1
+Python Guide Model 31,Books,Nykaa,4747,4.5,2,43,2
+AI Basics Model 32,Books,Nykaa,4884,4.6,3,46,3
+Data Science Model 33,Books,Nykaa,5021,4.7,4,49,4
+Algorithms Model 34,Books,Nykaa,5158,4.8,5,2,5
+DBMS Concepts Model 35,Books,Nykaa,5295,4.9,1,5,6
+Machine Learning Model 36,Books,Nykaa,5432,3.8,2,8,7
+Deep Learning Model 37,Books,Nykaa,5569,3.9,3,11,8
+NLP Handbook Model 38,Books,Nykaa,5706,4.0,4,14,9
+Operating Systems Model 39,Books,Nykaa,5843,4.1,5,17,10
+Computer Networks Model 40,Books,Nykaa,5980,4.2,1,20,1
+Python Guide Model 41,Books,Nykaa,6117,4.3,2,23,2
+AI Basics Model 42,Books,Nykaa,6254,4.4,3,26,3
+Data Science Model 43,Books,Nykaa,6391,4.5,4,29,4
+Algorithms Model 44,Books,Nykaa,6528,4.6,5,32,5
+DBMS Concepts Model 45,Books,Nykaa,6665,4.7,1,35,6
+Machine Learning Model 46,Books,Nykaa,6802,4.8,2,38,7
+Deep Learning Model 47,Books,Nykaa,6939,4.9,3,41,8
+NLP Handbook Model 48,Books,Nykaa,7076,3.8,4,44,9
+Operating Systems Model 49,Books,Nykaa,7213,3.9,5,47,10
+Computer Networks Model 50,Books,Nykaa,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Amazon,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Amazon,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Amazon,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Amazon,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Amazon,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Amazon,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Amazon,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Amazon,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Amazon,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Amazon,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Amazon,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Amazon,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Amazon,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Amazon,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Amazon,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Amazon,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Amazon,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Amazon,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Amazon,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Amazon,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Amazon,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Amazon,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Amazon,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Amazon,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Amazon,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Amazon,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Amazon,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Amazon,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Amazon,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Amazon,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Amazon,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Amazon,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Amazon,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Amazon,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Amazon,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Amazon,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Amazon,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Amazon,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Amazon,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Amazon,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Amazon,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Amazon,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Amazon,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Amazon,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Amazon,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Amazon,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Amazon,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Amazon,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Amazon,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Amazon,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Flipkart,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Flipkart,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Flipkart,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Flipkart,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Flipkart,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Flipkart,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Flipkart,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Flipkart,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Flipkart,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Flipkart,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Flipkart,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Flipkart,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Flipkart,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Flipkart,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Flipkart,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Flipkart,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Flipkart,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Flipkart,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Flipkart,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Flipkart,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Flipkart,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Flipkart,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Flipkart,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Flipkart,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Flipkart,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Flipkart,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Flipkart,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Flipkart,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Flipkart,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Flipkart,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Flipkart,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Flipkart,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Flipkart,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Flipkart,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Flipkart,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Flipkart,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Flipkart,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Flipkart,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Flipkart,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Flipkart,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Flipkart,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Flipkart,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Flipkart,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Flipkart,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Flipkart,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Flipkart,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Flipkart,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Flipkart,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Flipkart,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Flipkart,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Myntra,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Myntra,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Myntra,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Myntra,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Myntra,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Myntra,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Myntra,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Myntra,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Myntra,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Myntra,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Myntra,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Myntra,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Myntra,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Myntra,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Myntra,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Myntra,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Myntra,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Myntra,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Myntra,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Myntra,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Myntra,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Myntra,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Myntra,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Myntra,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Myntra,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Myntra,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Myntra,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Myntra,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Myntra,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Myntra,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Myntra,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Myntra,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Myntra,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Myntra,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Myntra,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Myntra,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Myntra,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Myntra,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Myntra,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Myntra,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Myntra,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Myntra,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Myntra,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Myntra,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Myntra,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Myntra,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Myntra,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Myntra,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Myntra,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Myntra,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Ajio,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Ajio,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Ajio,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Ajio,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Ajio,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Ajio,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Ajio,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Ajio,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Ajio,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Ajio,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Ajio,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Ajio,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Ajio,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Ajio,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Ajio,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Ajio,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Ajio,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Ajio,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Ajio,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Ajio,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Ajio,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Ajio,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Ajio,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Ajio,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Ajio,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Ajio,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Ajio,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Ajio,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Ajio,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Ajio,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Ajio,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Ajio,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Ajio,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Ajio,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Ajio,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Ajio,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Ajio,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Ajio,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Ajio,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Ajio,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Ajio,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Ajio,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Ajio,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Ajio,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Ajio,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Ajio,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Ajio,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Ajio,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Ajio,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Ajio,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Meesho,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Meesho,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Meesho,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Meesho,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Meesho,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Meesho,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Meesho,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Meesho,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Meesho,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Meesho,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Meesho,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Meesho,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Meesho,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Meesho,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Meesho,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Meesho,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Meesho,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Meesho,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Meesho,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Meesho,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Meesho,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Meesho,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Meesho,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Meesho,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Meesho,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Meesho,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Meesho,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Meesho,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Meesho,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Meesho,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Meesho,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Meesho,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Meesho,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Meesho,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Meesho,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Meesho,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Meesho,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Meesho,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Meesho,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Meesho,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Meesho,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Meesho,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Meesho,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Meesho,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Meesho,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Meesho,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Meesho,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Meesho,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Meesho,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Meesho,7350,4.0,1,0,1
+Mixer Grinder Model 1,Kitchen,Nykaa,637,3.9,2,3,2
+Air Fryer Model 2,Kitchen,Nykaa,774,4.0,3,6,3
+Rice Cooker Model 3,Kitchen,Nykaa,911,4.1,4,9,4
+Induction Stove Model 4,Kitchen,Nykaa,1048,4.2,5,12,5
+Microwave Oven Model 5,Kitchen,Nykaa,1185,4.3,1,15,6
+Toaster Model 6,Kitchen,Nykaa,1322,4.4,2,18,7
+Electric Kettle Model 7,Kitchen,Nykaa,1459,4.5,3,21,8
+Juicer Model 8,Kitchen,Nykaa,1596,4.6,4,24,9
+Coffee Maker Model 9,Kitchen,Nykaa,1733,4.7,5,27,10
+Chopper Model 10,Kitchen,Nykaa,1870,4.8,1,30,1
+Mixer Grinder Model 11,Kitchen,Nykaa,2007,4.9,2,33,2
+Air Fryer Model 12,Kitchen,Nykaa,2144,3.8,3,36,3
+Rice Cooker Model 13,Kitchen,Nykaa,2281,3.9,4,39,4
+Induction Stove Model 14,Kitchen,Nykaa,2418,4.0,5,42,5
+Microwave Oven Model 15,Kitchen,Nykaa,2555,4.1,1,45,6
+Toaster Model 16,Kitchen,Nykaa,2692,4.2,2,48,7
+Electric Kettle Model 17,Kitchen,Nykaa,2829,4.3,3,1,8
+Juicer Model 18,Kitchen,Nykaa,2966,4.4,4,4,9
+Coffee Maker Model 19,Kitchen,Nykaa,3103,4.5,5,7,10
+Chopper Model 20,Kitchen,Nykaa,3240,4.6,1,10,1
+Mixer Grinder Model 21,Kitchen,Nykaa,3377,4.7,2,13,2
+Air Fryer Model 22,Kitchen,Nykaa,3514,4.8,3,16,3
+Rice Cooker Model 23,Kitchen,Nykaa,3651,4.9,4,19,4
+Induction Stove Model 24,Kitchen,Nykaa,3788,3.8,5,22,5
+Microwave Oven Model 25,Kitchen,Nykaa,3925,3.9,1,25,6
+Toaster Model 26,Kitchen,Nykaa,4062,4.0,2,28,7
+Electric Kettle Model 27,Kitchen,Nykaa,4199,4.1,3,31,8
+Juicer Model 28,Kitchen,Nykaa,4336,4.2,4,34,9
+Coffee Maker Model 29,Kitchen,Nykaa,4473,4.3,5,37,10
+Chopper Model 30,Kitchen,Nykaa,4610,4.4,1,40,1
+Mixer Grinder Model 31,Kitchen,Nykaa,4747,4.5,2,43,2
+Air Fryer Model 32,Kitchen,Nykaa,4884,4.6,3,46,3
+Rice Cooker Model 33,Kitchen,Nykaa,5021,4.7,4,49,4
+Induction Stove Model 34,Kitchen,Nykaa,5158,4.8,5,2,5
+Microwave Oven Model 35,Kitchen,Nykaa,5295,4.9,1,5,6
+Toaster Model 36,Kitchen,Nykaa,5432,3.8,2,8,7
+Electric Kettle Model 37,Kitchen,Nykaa,5569,3.9,3,11,8
+Juicer Model 38,Kitchen,Nykaa,5706,4.0,4,14,9
+Coffee Maker Model 39,Kitchen,Nykaa,5843,4.1,5,17,10
+Chopper Model 40,Kitchen,Nykaa,5980,4.2,1,20,1
+Mixer Grinder Model 41,Kitchen,Nykaa,6117,4.3,2,23,2
+Air Fryer Model 42,Kitchen,Nykaa,6254,4.4,3,26,3
+Rice Cooker Model 43,Kitchen,Nykaa,6391,4.5,4,29,4
+Induction Stove Model 44,Kitchen,Nykaa,6528,4.6,5,32,5
+Microwave Oven Model 45,Kitchen,Nykaa,6665,4.7,1,35,6
+Toaster Model 46,Kitchen,Nykaa,6802,4.8,2,38,7
+Electric Kettle Model 47,Kitchen,Nykaa,6939,4.9,3,41,8
+Juicer Model 48,Kitchen,Nykaa,7076,3.8,4,44,9
+Coffee Maker Model 49,Kitchen,Nykaa,7213,3.9,5,47,10
+Chopper Model 50,Kitchen,Nykaa,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Amazon,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Amazon,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Amazon,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Amazon,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Amazon,1185,4.3,1,15,6
+Serum Model 6,Beauty,Amazon,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Amazon,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Amazon,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Amazon,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Amazon,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Amazon,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Amazon,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Amazon,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Amazon,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Amazon,2555,4.1,1,45,6
+Serum Model 16,Beauty,Amazon,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Amazon,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Amazon,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Amazon,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Amazon,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Amazon,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Amazon,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Amazon,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Amazon,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Amazon,3925,3.9,1,25,6
+Serum Model 26,Beauty,Amazon,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Amazon,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Amazon,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Amazon,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Amazon,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Amazon,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Amazon,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Amazon,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Amazon,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Amazon,5295,4.9,1,5,6
+Serum Model 36,Beauty,Amazon,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Amazon,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Amazon,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Amazon,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Amazon,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Amazon,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Amazon,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Amazon,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Amazon,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Amazon,6665,4.7,1,35,6
+Serum Model 46,Beauty,Amazon,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Amazon,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Amazon,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Amazon,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Amazon,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Flipkart,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Flipkart,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Flipkart,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Flipkart,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Flipkart,1185,4.3,1,15,6
+Serum Model 6,Beauty,Flipkart,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Flipkart,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Flipkart,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Flipkart,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Flipkart,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Flipkart,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Flipkart,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Flipkart,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Flipkart,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Flipkart,2555,4.1,1,45,6
+Serum Model 16,Beauty,Flipkart,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Flipkart,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Flipkart,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Flipkart,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Flipkart,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Flipkart,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Flipkart,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Flipkart,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Flipkart,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Flipkart,3925,3.9,1,25,6
+Serum Model 26,Beauty,Flipkart,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Flipkart,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Flipkart,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Flipkart,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Flipkart,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Flipkart,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Flipkart,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Flipkart,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Flipkart,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Flipkart,5295,4.9,1,5,6
+Serum Model 36,Beauty,Flipkart,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Flipkart,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Flipkart,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Flipkart,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Flipkart,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Flipkart,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Flipkart,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Flipkart,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Flipkart,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Flipkart,6665,4.7,1,35,6
+Serum Model 46,Beauty,Flipkart,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Flipkart,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Flipkart,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Flipkart,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Flipkart,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Myntra,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Myntra,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Myntra,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Myntra,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Myntra,1185,4.3,1,15,6
+Serum Model 6,Beauty,Myntra,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Myntra,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Myntra,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Myntra,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Myntra,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Myntra,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Myntra,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Myntra,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Myntra,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Myntra,2555,4.1,1,45,6
+Serum Model 16,Beauty,Myntra,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Myntra,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Myntra,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Myntra,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Myntra,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Myntra,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Myntra,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Myntra,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Myntra,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Myntra,3925,3.9,1,25,6
+Serum Model 26,Beauty,Myntra,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Myntra,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Myntra,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Myntra,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Myntra,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Myntra,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Myntra,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Myntra,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Myntra,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Myntra,5295,4.9,1,5,6
+Serum Model 36,Beauty,Myntra,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Myntra,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Myntra,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Myntra,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Myntra,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Myntra,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Myntra,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Myntra,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Myntra,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Myntra,6665,4.7,1,35,6
+Serum Model 46,Beauty,Myntra,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Myntra,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Myntra,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Myntra,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Myntra,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Ajio,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Ajio,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Ajio,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Ajio,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Ajio,1185,4.3,1,15,6
+Serum Model 6,Beauty,Ajio,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Ajio,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Ajio,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Ajio,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Ajio,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Ajio,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Ajio,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Ajio,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Ajio,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Ajio,2555,4.1,1,45,6
+Serum Model 16,Beauty,Ajio,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Ajio,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Ajio,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Ajio,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Ajio,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Ajio,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Ajio,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Ajio,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Ajio,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Ajio,3925,3.9,1,25,6
+Serum Model 26,Beauty,Ajio,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Ajio,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Ajio,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Ajio,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Ajio,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Ajio,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Ajio,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Ajio,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Ajio,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Ajio,5295,4.9,1,5,6
+Serum Model 36,Beauty,Ajio,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Ajio,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Ajio,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Ajio,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Ajio,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Ajio,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Ajio,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Ajio,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Ajio,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Ajio,6665,4.7,1,35,6
+Serum Model 46,Beauty,Ajio,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Ajio,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Ajio,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Ajio,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Ajio,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Meesho,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Meesho,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Meesho,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Meesho,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Meesho,1185,4.3,1,15,6
+Serum Model 6,Beauty,Meesho,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Meesho,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Meesho,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Meesho,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Meesho,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Meesho,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Meesho,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Meesho,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Meesho,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Meesho,2555,4.1,1,45,6
+Serum Model 16,Beauty,Meesho,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Meesho,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Meesho,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Meesho,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Meesho,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Meesho,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Meesho,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Meesho,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Meesho,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Meesho,3925,3.9,1,25,6
+Serum Model 26,Beauty,Meesho,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Meesho,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Meesho,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Meesho,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Meesho,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Meesho,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Meesho,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Meesho,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Meesho,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Meesho,5295,4.9,1,5,6
+Serum Model 36,Beauty,Meesho,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Meesho,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Meesho,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Meesho,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Meesho,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Meesho,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Meesho,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Meesho,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Meesho,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Meesho,6665,4.7,1,35,6
+Serum Model 46,Beauty,Meesho,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Meesho,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Meesho,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Meesho,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Meesho,7350,4.0,1,0,1
+Face Wash Model 1,Beauty,Nykaa,637,3.9,2,3,2
+Moisturizer Model 2,Beauty,Nykaa,774,4.0,3,6,3
+Sunscreen Model 3,Beauty,Nykaa,911,4.1,4,9,4
+Shampoo Model 4,Beauty,Nykaa,1048,4.2,5,12,5
+Conditioner Model 5,Beauty,Nykaa,1185,4.3,1,15,6
+Serum Model 6,Beauty,Nykaa,1322,4.4,2,18,7
+Lip Balm Model 7,Beauty,Nykaa,1459,4.5,3,21,8
+Body Lotion Model 8,Beauty,Nykaa,1596,4.6,4,24,9
+Face Cream Model 9,Beauty,Nykaa,1733,4.7,5,27,10
+Hair Oil Model 10,Beauty,Nykaa,1870,4.8,1,30,1
+Face Wash Model 11,Beauty,Nykaa,2007,4.9,2,33,2
+Moisturizer Model 12,Beauty,Nykaa,2144,3.8,3,36,3
+Sunscreen Model 13,Beauty,Nykaa,2281,3.9,4,39,4
+Shampoo Model 14,Beauty,Nykaa,2418,4.0,5,42,5
+Conditioner Model 15,Beauty,Nykaa,2555,4.1,1,45,6
+Serum Model 16,Beauty,Nykaa,2692,4.2,2,48,7
+Lip Balm Model 17,Beauty,Nykaa,2829,4.3,3,1,8
+Body Lotion Model 18,Beauty,Nykaa,2966,4.4,4,4,9
+Face Cream Model 19,Beauty,Nykaa,3103,4.5,5,7,10
+Hair Oil Model 20,Beauty,Nykaa,3240,4.6,1,10,1
+Face Wash Model 21,Beauty,Nykaa,3377,4.7,2,13,2
+Moisturizer Model 22,Beauty,Nykaa,3514,4.8,3,16,3
+Sunscreen Model 23,Beauty,Nykaa,3651,4.9,4,19,4
+Shampoo Model 24,Beauty,Nykaa,3788,3.8,5,22,5
+Conditioner Model 25,Beauty,Nykaa,3925,3.9,1,25,6
+Serum Model 26,Beauty,Nykaa,4062,4.0,2,28,7
+Lip Balm Model 27,Beauty,Nykaa,4199,4.1,3,31,8
+Body Lotion Model 28,Beauty,Nykaa,4336,4.2,4,34,9
+Face Cream Model 29,Beauty,Nykaa,4473,4.3,5,37,10
+Hair Oil Model 30,Beauty,Nykaa,4610,4.4,1,40,1
+Face Wash Model 31,Beauty,Nykaa,4747,4.5,2,43,2
+Moisturizer Model 32,Beauty,Nykaa,4884,4.6,3,46,3
+Sunscreen Model 33,Beauty,Nykaa,5021,4.7,4,49,4
+Shampoo Model 34,Beauty,Nykaa,5158,4.8,5,2,5
+Conditioner Model 35,Beauty,Nykaa,5295,4.9,1,5,6
+Serum Model 36,Beauty,Nykaa,5432,3.8,2,8,7
+Lip Balm Model 37,Beauty,Nykaa,5569,3.9,3,11,8
+Body Lotion Model 38,Beauty,Nykaa,5706,4.0,4,14,9
+Face Cream Model 39,Beauty,Nykaa,5843,4.1,5,17,10
+Hair Oil Model 40,Beauty,Nykaa,5980,4.2,1,20,1
+Face Wash Model 41,Beauty,Nykaa,6117,4.3,2,23,2
+Moisturizer Model 42,Beauty,Nykaa,6254,4.4,3,26,3
+Sunscreen Model 43,Beauty,Nykaa,6391,4.5,4,29,4
+Shampoo Model 44,Beauty,Nykaa,6528,4.6,5,32,5
+Conditioner Model 45,Beauty,Nykaa,6665,4.7,1,35,6
+Serum Model 46,Beauty,Nykaa,6802,4.8,2,38,7
+Lip Balm Model 47,Beauty,Nykaa,6939,4.9,3,41,8
+Body Lotion Model 48,Beauty,Nykaa,7076,3.8,4,44,9
+Face Cream Model 49,Beauty,Nykaa,7213,3.9,5,47,10
+Hair Oil Model 50,Beauty,Nykaa,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Amazon,637,3.9,2,3,2
+Football Model 2,Sports,Amazon,774,4.0,3,6,3
+Basketball Model 3,Sports,Amazon,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Amazon,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Amazon,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Amazon,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Amazon,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Amazon,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Amazon,1733,4.7,5,27,10
+Helmet Model 10,Sports,Amazon,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Amazon,2007,4.9,2,33,2
+Football Model 12,Sports,Amazon,2144,3.8,3,36,3
+Basketball Model 13,Sports,Amazon,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Amazon,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Amazon,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Amazon,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Amazon,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Amazon,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Amazon,3103,4.5,5,7,10
+Helmet Model 20,Sports,Amazon,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Amazon,3377,4.7,2,13,2
+Football Model 22,Sports,Amazon,3514,4.8,3,16,3
+Basketball Model 23,Sports,Amazon,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Amazon,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Amazon,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Amazon,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Amazon,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Amazon,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Amazon,4473,4.3,5,37,10
+Helmet Model 30,Sports,Amazon,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Amazon,4747,4.5,2,43,2
+Football Model 32,Sports,Amazon,4884,4.6,3,46,3
+Basketball Model 33,Sports,Amazon,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Amazon,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Amazon,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Amazon,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Amazon,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Amazon,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Amazon,5843,4.1,5,17,10
+Helmet Model 40,Sports,Amazon,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Amazon,6117,4.3,2,23,2
+Football Model 42,Sports,Amazon,6254,4.4,3,26,3
+Basketball Model 43,Sports,Amazon,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Amazon,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Amazon,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Amazon,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Amazon,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Amazon,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Amazon,7213,3.9,5,47,10
+Helmet Model 50,Sports,Amazon,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Flipkart,637,3.9,2,3,2
+Football Model 2,Sports,Flipkart,774,4.0,3,6,3
+Basketball Model 3,Sports,Flipkart,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Flipkart,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Flipkart,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Flipkart,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Flipkart,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Flipkart,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Flipkart,1733,4.7,5,27,10
+Helmet Model 10,Sports,Flipkart,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Flipkart,2007,4.9,2,33,2
+Football Model 12,Sports,Flipkart,2144,3.8,3,36,3
+Basketball Model 13,Sports,Flipkart,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Flipkart,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Flipkart,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Flipkart,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Flipkart,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Flipkart,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Flipkart,3103,4.5,5,7,10
+Helmet Model 20,Sports,Flipkart,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Flipkart,3377,4.7,2,13,2
+Football Model 22,Sports,Flipkart,3514,4.8,3,16,3
+Basketball Model 23,Sports,Flipkart,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Flipkart,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Flipkart,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Flipkart,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Flipkart,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Flipkart,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Flipkart,4473,4.3,5,37,10
+Helmet Model 30,Sports,Flipkart,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Flipkart,4747,4.5,2,43,2
+Football Model 32,Sports,Flipkart,4884,4.6,3,46,3
+Basketball Model 33,Sports,Flipkart,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Flipkart,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Flipkart,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Flipkart,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Flipkart,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Flipkart,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Flipkart,5843,4.1,5,17,10
+Helmet Model 40,Sports,Flipkart,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Flipkart,6117,4.3,2,23,2
+Football Model 42,Sports,Flipkart,6254,4.4,3,26,3
+Basketball Model 43,Sports,Flipkart,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Flipkart,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Flipkart,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Flipkart,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Flipkart,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Flipkart,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Flipkart,7213,3.9,5,47,10
+Helmet Model 50,Sports,Flipkart,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Myntra,637,3.9,2,3,2
+Football Model 2,Sports,Myntra,774,4.0,3,6,3
+Basketball Model 3,Sports,Myntra,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Myntra,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Myntra,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Myntra,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Myntra,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Myntra,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Myntra,1733,4.7,5,27,10
+Helmet Model 10,Sports,Myntra,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Myntra,2007,4.9,2,33,2
+Football Model 12,Sports,Myntra,2144,3.8,3,36,3
+Basketball Model 13,Sports,Myntra,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Myntra,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Myntra,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Myntra,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Myntra,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Myntra,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Myntra,3103,4.5,5,7,10
+Helmet Model 20,Sports,Myntra,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Myntra,3377,4.7,2,13,2
+Football Model 22,Sports,Myntra,3514,4.8,3,16,3
+Basketball Model 23,Sports,Myntra,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Myntra,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Myntra,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Myntra,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Myntra,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Myntra,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Myntra,4473,4.3,5,37,10
+Helmet Model 30,Sports,Myntra,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Myntra,4747,4.5,2,43,2
+Football Model 32,Sports,Myntra,4884,4.6,3,46,3
+Basketball Model 33,Sports,Myntra,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Myntra,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Myntra,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Myntra,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Myntra,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Myntra,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Myntra,5843,4.1,5,17,10
+Helmet Model 40,Sports,Myntra,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Myntra,6117,4.3,2,23,2
+Football Model 42,Sports,Myntra,6254,4.4,3,26,3
+Basketball Model 43,Sports,Myntra,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Myntra,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Myntra,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Myntra,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Myntra,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Myntra,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Myntra,7213,3.9,5,47,10
+Helmet Model 50,Sports,Myntra,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Ajio,637,3.9,2,3,2
+Football Model 2,Sports,Ajio,774,4.0,3,6,3
+Basketball Model 3,Sports,Ajio,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Ajio,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Ajio,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Ajio,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Ajio,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Ajio,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Ajio,1733,4.7,5,27,10
+Helmet Model 10,Sports,Ajio,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Ajio,2007,4.9,2,33,2
+Football Model 12,Sports,Ajio,2144,3.8,3,36,3
+Basketball Model 13,Sports,Ajio,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Ajio,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Ajio,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Ajio,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Ajio,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Ajio,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Ajio,3103,4.5,5,7,10
+Helmet Model 20,Sports,Ajio,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Ajio,3377,4.7,2,13,2
+Football Model 22,Sports,Ajio,3514,4.8,3,16,3
+Basketball Model 23,Sports,Ajio,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Ajio,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Ajio,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Ajio,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Ajio,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Ajio,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Ajio,4473,4.3,5,37,10
+Helmet Model 30,Sports,Ajio,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Ajio,4747,4.5,2,43,2
+Football Model 32,Sports,Ajio,4884,4.6,3,46,3
+Basketball Model 33,Sports,Ajio,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Ajio,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Ajio,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Ajio,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Ajio,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Ajio,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Ajio,5843,4.1,5,17,10
+Helmet Model 40,Sports,Ajio,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Ajio,6117,4.3,2,23,2
+Football Model 42,Sports,Ajio,6254,4.4,3,26,3
+Basketball Model 43,Sports,Ajio,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Ajio,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Ajio,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Ajio,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Ajio,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Ajio,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Ajio,7213,3.9,5,47,10
+Helmet Model 50,Sports,Ajio,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Meesho,637,3.9,2,3,2
+Football Model 2,Sports,Meesho,774,4.0,3,6,3
+Basketball Model 3,Sports,Meesho,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Meesho,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Meesho,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Meesho,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Meesho,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Meesho,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Meesho,1733,4.7,5,27,10
+Helmet Model 10,Sports,Meesho,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Meesho,2007,4.9,2,33,2
+Football Model 12,Sports,Meesho,2144,3.8,3,36,3
+Basketball Model 13,Sports,Meesho,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Meesho,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Meesho,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Meesho,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Meesho,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Meesho,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Meesho,3103,4.5,5,7,10
+Helmet Model 20,Sports,Meesho,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Meesho,3377,4.7,2,13,2
+Football Model 22,Sports,Meesho,3514,4.8,3,16,3
+Basketball Model 23,Sports,Meesho,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Meesho,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Meesho,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Meesho,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Meesho,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Meesho,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Meesho,4473,4.3,5,37,10
+Helmet Model 30,Sports,Meesho,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Meesho,4747,4.5,2,43,2
+Football Model 32,Sports,Meesho,4884,4.6,3,46,3
+Basketball Model 33,Sports,Meesho,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Meesho,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Meesho,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Meesho,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Meesho,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Meesho,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Meesho,5843,4.1,5,17,10
+Helmet Model 40,Sports,Meesho,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Meesho,6117,4.3,2,23,2
+Football Model 42,Sports,Meesho,6254,4.4,3,26,3
+Basketball Model 43,Sports,Meesho,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Meesho,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Meesho,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Meesho,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Meesho,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Meesho,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Meesho,7213,3.9,5,47,10
+Helmet Model 50,Sports,Meesho,7350,4.0,1,0,1
+Cricket Bat Model 1,Sports,Nykaa,637,3.9,2,3,2
+Football Model 2,Sports,Nykaa,774,4.0,3,6,3
+Basketball Model 3,Sports,Nykaa,911,4.1,4,9,4
+Badminton Racket Model 4,Sports,Nykaa,1048,4.2,5,12,5
+Tennis Racket Model 5,Sports,Nykaa,1185,4.3,1,15,6
+Yoga Mat Model 6,Sports,Nykaa,1322,4.4,2,18,7
+Dumbbells Model 7,Sports,Nykaa,1459,4.5,3,21,8
+Skipping Rope Model 8,Sports,Nykaa,1596,4.6,4,24,9
+Sports Bag Model 9,Sports,Nykaa,1733,4.7,5,27,10
+Helmet Model 10,Sports,Nykaa,1870,4.8,1,30,1
+Cricket Bat Model 11,Sports,Nykaa,2007,4.9,2,33,2
+Football Model 12,Sports,Nykaa,2144,3.8,3,36,3
+Basketball Model 13,Sports,Nykaa,2281,3.9,4,39,4
+Badminton Racket Model 14,Sports,Nykaa,2418,4.0,5,42,5
+Tennis Racket Model 15,Sports,Nykaa,2555,4.1,1,45,6
+Yoga Mat Model 16,Sports,Nykaa,2692,4.2,2,48,7
+Dumbbells Model 17,Sports,Nykaa,2829,4.3,3,1,8
+Skipping Rope Model 18,Sports,Nykaa,2966,4.4,4,4,9
+Sports Bag Model 19,Sports,Nykaa,3103,4.5,5,7,10
+Helmet Model 20,Sports,Nykaa,3240,4.6,1,10,1
+Cricket Bat Model 21,Sports,Nykaa,3377,4.7,2,13,2
+Football Model 22,Sports,Nykaa,3514,4.8,3,16,3
+Basketball Model 23,Sports,Nykaa,3651,4.9,4,19,4
+Badminton Racket Model 24,Sports,Nykaa,3788,3.8,5,22,5
+Tennis Racket Model 25,Sports,Nykaa,3925,3.9,1,25,6
+Yoga Mat Model 26,Sports,Nykaa,4062,4.0,2,28,7
+Dumbbells Model 27,Sports,Nykaa,4199,4.1,3,31,8
+Skipping Rope Model 28,Sports,Nykaa,4336,4.2,4,34,9
+Sports Bag Model 29,Sports,Nykaa,4473,4.3,5,37,10
+Helmet Model 30,Sports,Nykaa,4610,4.4,1,40,1
+Cricket Bat Model 31,Sports,Nykaa,4747,4.5,2,43,2
+Football Model 32,Sports,Nykaa,4884,4.6,3,46,3
+Basketball Model 33,Sports,Nykaa,5021,4.7,4,49,4
+Badminton Racket Model 34,Sports,Nykaa,5158,4.8,5,2,5
+Tennis Racket Model 35,Sports,Nykaa,5295,4.9,1,5,6
+Yoga Mat Model 36,Sports,Nykaa,5432,3.8,2,8,7
+Dumbbells Model 37,Sports,Nykaa,5569,3.9,3,11,8
+Skipping Rope Model 38,Sports,Nykaa,5706,4.0,4,14,9
+Sports Bag Model 39,Sports,Nykaa,5843,4.1,5,17,10
+Helmet Model 40,Sports,Nykaa,5980,4.2,1,20,1
+Cricket Bat Model 41,Sports,Nykaa,6117,4.3,2,23,2
+Football Model 42,Sports,Nykaa,6254,4.4,3,26,3
+Basketball Model 43,Sports,Nykaa,6391,4.5,4,29,4
+Badminton Racket Model 44,Sports,Nykaa,6528,4.6,5,32,5
+Tennis Racket Model 45,Sports,Nykaa,6665,4.7,1,35,6
+Yoga Mat Model 46,Sports,Nykaa,6802,4.8,2,38,7
+Dumbbells Model 47,Sports,Nykaa,6939,4.9,3,41,8
+Skipping Rope Model 48,Sports,Nykaa,7076,3.8,4,44,9
+Sports Bag Model 49,Sports,Nykaa,7213,3.9,5,47,10
+Helmet Model 50,Sports,Nykaa,7350,4.0,1,0,1
